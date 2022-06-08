@@ -21,7 +21,6 @@ I will definitely try to develop my code here in my spare time
 
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![dart](https://img.shields.io/badge/Dart-28B6F6?style=for-the-badge&logo=dart&logoColor=white)
-![matlab](https://img.shields.io/badge/matlab-28B6F6?style=for-the-badge&logo=matlab&logoColor=white)
 
 ### Back-End Development
 
