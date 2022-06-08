@@ -3,7 +3,7 @@
 Welcome to my page 😍 I'm glad to see you here for any reason . I have been programming for several years
 and this is the place to publish my open source projects.<br>
 I will definitely try to develop my code here in my spare time
-<h3> 👨🏻 💻 About Me </h3>
+<h3> 👩🏻‍💻 💻 About Me </h3>
 
 
 
